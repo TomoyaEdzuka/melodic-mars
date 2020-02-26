@@ -2,7 +2,8 @@
   "links": [
     {
       "title": "Facebook",
-      "icon": "Facebook"
+      "icon": "fa-facebook-f",
+      "url": "https://www.facebook.com/"
     },
     {
       "type": "twitter",
