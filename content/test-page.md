@@ -4,8 +4,8 @@ layout = "page"
 subtitle = "This is a test Page"
 title = "Test Page"
 [menu.main]
-name = "TestMenu"
-weight = 5
+name = "Test Menu"
+weight = 4
 
 +++
 # This is a sample page.
