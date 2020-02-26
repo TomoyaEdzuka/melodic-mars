@@ -4,10 +4,10 @@ baseURL: "/"
 params:
   palette: yellow
   header:
-    title: Fjord
+    title: Demo Page for lab homepage
     tagline: Minimal and clean blog theme
-    logo_img: images/logo.png
-    bg_img: images/header-bg.jpg
+    logo_img: "/images/アセット 1.svg"
+    bg_img: "/images/IMG_6096_x0,5.jpeg"
     has_nav: true
     has_social: true
   footer:
