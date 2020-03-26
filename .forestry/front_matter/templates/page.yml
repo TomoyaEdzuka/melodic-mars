@@ -25,5 +25,4 @@ fields:
   config:
     required: true
 pages:
-- content/about.md
 - content/test-page.md
