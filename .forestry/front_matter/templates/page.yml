@@ -26,5 +26,4 @@ fields:
     required: true
 pages:
 - content/about.md
-- content/style-guide.md
 - content/test-page.md
